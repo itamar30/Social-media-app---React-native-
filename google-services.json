@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "95971299974",
+    "project_id": "social-media-app-23ffc",
+    "storage_bucket": "social-media-app-23ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95971299974:android:2ed957000beae4342df707",
+        "android_client_info": {
+          "package_name": "com.itamar_berti.socialMediaApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95971299974-9u5r1cnpb8qa2pcd1t8kdritbn8u6ule.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itamar_berti.socialMediaApp",
+            "certificate_hash": "9bbcd571352de99b4c6659684bf1f35c14851147"
+          }
+        },
+        {
+          "client_id": "95971299974-gko1timi3h7324bh29mpq08lrf5gmjk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itamar_berti.socialMediaApp",
+            "certificate_hash": "9a02e914b76397455009fbb6d60001fc68c0963c"
+          }
+        },
+        {
+          "client_id": "95971299974-ifhrjt4a5jo62d0p55nqtfbpt3allcog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYuZP7SDCrgPaxubkfTqS5DCknXtbVCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95971299974-ifhrjt4a5jo62d0p55nqtfbpt3allcog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
